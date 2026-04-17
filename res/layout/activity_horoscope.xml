@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:id="false" android:layout_width="-1" android:layout_height="-1">
+	<androidx.constraintlayout.widget.ConstraintLayout android:id="false" android:background="resourceId:0x106000b" android:layout_width="-1" android:layout_height="-1">
+		<LinearLayout android:orientation="1" android:id="false" android:background="resourceId:0x106000b" android:layout_width="0dp" android:layout_height="0dp" app:layout_constraintBottom_toTopOf="false" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toTopOf="0">
+			<LinearLayout android:orientation="1" android:id="false" android:background="resourceId:0x106000b" android:layout_width="-1" android:layout_height="-2" android:layout_marginLeft="8dp" android:layout_marginTop="8dp" android:layout_marginRight="8dp">
+				<LinearLayout android:gravity="0x10" android:orientation="0" android:layout_width="-1" android:layout_height="-2">
+					<ImageView android:id="false" android:layout_width="48dp" android:layout_height="32dp" android:scaleType="5" app:srcCompat="res/drawable/ic_baseline_calendar_month.xml" app:tint="b2b2b2" />
+					<TextView android:textSize="14sp" android:id="false" android:layout_width="0dp" android:layout_height="-2" android:text="Birth Date" android:layout_weight="{4:1073741824}" style="resourceId:0x7f13019e" />
+					<TextView android:textSize="14sp" android:id="false" android:layout_width="0dp" android:layout_height="-2" android:text="" android:layout_weight="{4:1077936128}" style="resourceId:0x7f13019e" />
+				</LinearLayout>
+				<LinearLayout android:gravity="0x10" android:orientation="0" android:layout_width="-1" android:layout_height="-2">
+					<ImageView android:id="false" android:layout_width="48dp" android:layout_height="32dp" android:scaleType="5" app:srcCompat="res/drawable/ic_baseline_access_time.xml" app:tint="b2b2b2" />
+					<TextView android:textSize="14sp" android:id="false" android:layout_width="0dp" android:layout_height="-2" android:text="Birth Time" android:layout_weight="{4:1073741824}" style="resourceId:0x7f13019e" />
+					<TextView android:textSize="14sp" android:id="false" android:layout_width="0dp" android:layout_height="-2" android:text="" android:layout_weight="{4:1077936128}" style="resourceId:0x7f13019e" />
+				</LinearLayout>
+			</LinearLayout>
+			<RelativeLayout android:id="false" android:tag="binding_1" android:padding="8dp" android:layout_width="-1" android:layout_height="0dp" android:layout_weight="{4:1065353216}">
+				<TextView android:textSize="30sp" android:textColor="resourceId:0x106000b" android:id="false" android:padding="16dp" android:layout_width="-2" android:layout_height="-2" android:text="Find" android:layout_centerInParent="true" />
+				<include android:id="false" android:visibility="0" layout="res/layout/chart_layout.xml" />
+			</RelativeLayout>
+		</LinearLayout>
+		<LinearLayout android:orientation="0" android:id="false" android:paddingLeft="16dp" android:paddingTop="4dp" android:paddingRight="16dp" android:layout_width="-1" android:layout_height="-2" android:layout_marginBottom="16dp" app:layout_constraintBottom_toTopOf="false" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0">
+			<Button android:textSize="16sp" android:id="false" android:layout_width="-2" android:layout_height="-2" android:text="Info" android:layout_weight="{4:1065353216}" android:textAllCaps="false" android:layout_marginEnd="8sp" style="resourceId:0x7f130181" />
+			<Button android:textSize="16sp" android:id="false" android:layout_width="-2" android:layout_height="-2" android:text="Report" android:layout_weight="{4:1065353216}" android:textAllCaps="false" android:layout_marginStart="8dp" style="resourceId:0x7f130181" />
+		</LinearLayout>
+		<LinearLayout android:orientation="0" android:id="false" android:layout_width="-2" android:layout_height="-2" app:layout_constraintBottom_toBottomOf="0" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0" />
+	</androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

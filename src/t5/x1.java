@@ -1,0 +1,20 @@
+package t5;
+
+import com.google.android.gms.internal.measurement.j7;
+import com.google.android.gms.internal.measurement.k7;
+import com.google.android.gms.internal.measurement.l7;
+import java.util.List;
+
+/* loaded from: /storage/emulated/0/Android/data/com.dastanapps.androiddevtools/files/decompiled/com.isprid.kendare/dex/classes.dex */
+public final /* synthetic */ class x1 implements y2 {
+
+    /* renamed from: b, reason: collision with root package name */
+    public static final /* synthetic */ x1 f17678b = new x1();
+
+    @Override // t5.y2
+    public final Object zza() {
+        List list = a3.f17163a;
+        ((l7) ((k7) j7.f10848e.f10849b.zza())).getClass();
+        return Boolean.valueOf(((Boolean) l7.f10878b.b()).booleanValue());
+    }
+}

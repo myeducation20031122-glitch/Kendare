@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:background="{2:2130904078}" android:paddingLeft="16dp" android:paddingTop="10dp" android:paddingRight="16dp" android:paddingBottom="10dp" android:clickable="true" android:layout_width="-1" android:layout_height="-2">
+	<ImageView android:id="false" android:layout_width="40dp" android:layout_height="40dp" android:layout_marginRight="10dp" android:layout_centerVertical="true" app:srcCompat="res/drawable/ic_place.xml" />
+	<TextView android:textColor="333333" android:id="false" android:layout_width="-2" android:layout_height="-2" android:text="Hospital Name" android:layout_toRightOf="false" style="resourceId:0x7f13014a" />
+	<TextView android:textColor="8c8c8c" android:id="false" android:layout_width="-2" android:layout_height="-2" android:text="Country" android:layout_toRightOf="false" android:layout_below="false" style="resourceId:0x7f130187" />
+</RelativeLayout>

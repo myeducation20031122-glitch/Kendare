@@ -1,0 +1,6 @@
+package fc;
+
+/* loaded from: /storage/emulated/0/Android/data/com.dastanapps.androiddevtools/files/decompiled/com.isprid.kendare/dex/classes2.dex */
+public abstract class f0 {
+    public static final r4.d a = new r4.d("CLOSED_EMPTY", 5);
+}

@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="1" android:padding="16dp" android:layout_width="-1" android:layout_height="-1">
+	<TextView android:textColor="000" android:id="false" android:visibility="0" android:layout_width="-1" android:layout_height="-2" android:text="Saving Horoscope" style="resourceId:0x7f1301a2" />
+	<EditText android:textColor="resourceId:0x106000c" android:id="false" android:padding="12dp" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="16dp" android:hint="Horoscope Name" android:lines="1" android:inputType="0x2001" android:imeOptions="0x6" style="resourceId:0x7f130183" />
+	<LinearLayout android:orientation="0" android:visibility="2" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="16dp">
+		<Button android:textColor="resourceId:0x106000b" android:id="false" android:background="res/drawable/shape_rect_round_gray.xml" android:layout_width="0dp" android:layout_height="-2" android:text="CANCEL" android:layout_weight="{4:1065353216}" />
+		<Button android:textColor="resourceId:0x106000b" android:id="false" android:background="res/drawable/shape_rect_round_primary.xml" android:layout_width="0dp" android:layout_height="-2" android:layout_marginLeft="16dp" android:text="Save" android:layout_weight="{4:1065353216}" />
+	</LinearLayout>
+</LinearLayout>

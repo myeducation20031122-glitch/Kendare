@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+	<item android:icon="res/drawable/ic_home.xml" android:id="false" android:title="මුල් පිටුව" />
+	<item android:icon="res/drawable/ic_services.xml" android:id="false" android:title="සේවාවන්" />
+	<item android:icon="res/drawable/ic_notifications.xml" android:id="false" android:title="දැනුම්දීම්" />
+	<item android:icon="res/drawable/ic_more.xml" android:id="false" android:title="වෙනත්" />
+</menu>

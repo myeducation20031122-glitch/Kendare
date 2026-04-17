@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.cardview.widget.CardView xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:layout_width="-2" android:layout_height="-2" android:minWidth="300dp" app:cardCornerRadius="12dp" app:cardElevation="8dp">
+	<androidx.constraintlayout.widget.ConstraintLayout android:orientation="1" android:id="false" android:padding="16dp" android:layout_width="-1" android:layout_height="-1" android:minWidth="300dp">
+		<TextView android:id="false" android:layout_width="-2" android:layout_height="-2" android:layout_marginTop="4dp" android:layout_marginStart="8dp" app:layout_constraintEnd_toEndOf="0" app:layout_constraintHorizontal_bias="{4:0}" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toTopOf="0" style="resourceId:0x7f13014b" />
+		<TextView android:id="false" android:layout_width="0dp" android:layout_height="-2" android:layout_marginTop="24dp" android:layout_marginStart="8dp" android:layout_marginEnd="8dp" app:layout_constraintEnd_toEndOf="0" app:layout_constraintStart_toStartOf="0" app:layout_constraintTop_toBottomOf="false" style="resourceId:0x7f130189" />
+		<Button android:textColor="ff076ff" android:id="false" android:background="0000" android:layout_width="-2" android:layout_height="0dp" android:layout_marginTop="24dp" app:backgroundTint="resourceId:0x0" app:layout_constraintEnd_toEndOf="0" app:layout_constraintTop_toBottomOf="false" style="resourceId:0x7f13014a" />
+		<Button android:textColor="ff076ff" android:id="false" android:background="0000" android:layout_width="-2" android:layout_height="-2" android:layout_marginEnd="8dp" app:backgroundTint="resourceId:0x0" app:layout_constraintBottom_toBottomOf="false" app:layout_constraintEnd_toStartOf="false" app:layout_constraintTop_toTopOf="false" style="resourceId:0x7f13014a" />
+	</androidx.constraintlayout.widget.ConstraintLayout>
+</androidx.cardview.widget.CardView>

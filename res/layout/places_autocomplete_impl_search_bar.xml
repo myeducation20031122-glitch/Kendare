@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merge xmlns:android="http://schemas.android.com/apk/res/android">
+	<ImageButton android:layout_gravity="0x10" android:id="false" android:background="{2:2130904079}" android:padding="12dp" android:layout_width="-2" android:layout_height="-2" android:src="resourceId:0x7f070130" android:contentDescription="Cancel" android:layout_marginEnd="20dp" />
+	<EditText android:textSize="20sp" android:textColor="212121" android:textColorHint="757575" android:id="false" android:background="resourceId:0x106000d" android:layout_width="0dp" android:layout_height="-1" android:hint="Search a place" android:maxLines="1" android:lines="1" android:singleLine="true" android:layout_weight="{4:1065353216}" android:inputType="0x80001" android:imeOptions="0x10000003" android:textCursorDrawable="resourceId:0x0" />
+	<ImageButton android:layout_gravity="0x10" android:id="false" android:background="{2:2130904079}" android:padding="12dp" android:layout_width="-2" android:layout_height="-2" android:src="resourceId:0x7f070131" android:contentDescription="Clear search" />
+</merge>

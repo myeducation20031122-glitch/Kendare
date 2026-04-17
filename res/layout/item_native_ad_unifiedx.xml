@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.google.android.gms.ads.nativead.NativeAdView xmlns:android="http://schemas.android.com/apk/res/android" android:id="false" android:padding="8dp" android:layout_width="-1" android:layout_height="-2">
+	<LinearLayout android:orientation="1" android:layout_width="-1" android:layout_height="-2">
+		<TextView android:textStyle="0x1" android:textColor="resourceId:0x106000c" android:id="false" android:layout_width="-2" android:layout_height="-2" />
+		<com.google.android.gms.ads.nativead.MediaView android:id="false" android:layout_width="-1" android:layout_height="200dp" />
+		<LinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="4dp">
+			<ImageView android:id="false" android:layout_width="40dp" android:layout_height="40dp" android:scaleType="6" />
+			<Button android:id="false" android:layout_width="-2" android:layout_height="40dp" android:layout_marginStart="8dp" style="resourceId:0x7f1304f1" />
+		</LinearLayout>
+	</LinearLayout>
+</com.google.android.gms.ads.nativead.NativeAdView>

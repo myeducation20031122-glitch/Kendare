@@ -1,0 +1,6 @@
+package s7;
+
+/* loaded from: /storage/emulated/0/Android/data/com.dastanapps.androiddevtools/files/decompiled/com.isprid.kendare/dex/classes.dex */
+public interface g {
+    void a(f fVar, int i10);
+}

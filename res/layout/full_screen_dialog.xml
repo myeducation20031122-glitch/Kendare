@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<androidx.coordinatorlayout.widget.CoordinatorLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:layout_width="-1" android:layout_height="-1">
+	<com.google.android.material.appbar.AppBarLayout android:id="false" android:layout_width="-1" android:layout_height="-2" app:elevation="0dp">
+		<androidx.appcompat.widget.Toolbar android:theme="resourceId:0x7f1302fd" android:id="false" android:background="{2:2130903342}" android:layout_width="-1" android:layout_height="{2:2130903048}" app:navigationIcon="res/drawable/ic_close.xml" app:popupTheme="resourceId:0x7f130302">
+			<EditText android:textColor="ffffff" android:id="false" android:layout_width="-1" android:layout_height="-1" android:hint="Search Hospital" android:textCursorDrawable="res/drawable/color_cursor.xml" android:backgroundTint="resourceId:0x106000d" style="resourceId:0x7f13018a" />
+		</androidx.appcompat.widget.Toolbar>
+	</com.google.android.material.appbar.AppBarLayout>
+	<FrameLayout android:layout_width="-1" android:layout_height="-1" app:layout_behavior="com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior">
+		<ProgressBar android:layout_gravity="0x11" android:id="false" android:paddingLeft="8dp" android:paddingRight="8dp" android:visibility="2" android:layout_width="-2" android:layout_height="-2" android:indeterminate="true" />
+		<LinearLayout android:orientation="1" android:id="false" android:visibility="0" android:layout_width="-1" android:layout_height="-1">
+			<androidx.recyclerview.widget.RecyclerView android:id="false" android:scrollbars="0x200" android:layout_width="-1" android:layout_height="-1" />
+		</LinearLayout>
+	</FrameLayout>
+</androidx.coordinatorlayout.widget.CoordinatorLayout>

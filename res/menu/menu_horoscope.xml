@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto">
+	<item android:icon="res/drawable/ic_save.xml" android:id="false" android:title="Save" app:showAsAction="0x2" />
+	<item android:icon="res/drawable/ic_baseline_share.xml" android:id="false" android:title="යෙදුම බෙදාගන්න" app:showAsAction="0x2" />
+</menu>

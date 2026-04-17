@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ScrollView xmlns:android="http://schemas.android.com/apk/res/android" android:padding="8dp" android:layout_width="-1" android:layout_height="-1">
+	<TextView android:textColor="resourceId:0x106000c" android:id="false" android:padding="16dp" android:layout_width="-1" android:layout_height="-1" android:text="test" android:lineSpacingMultiplier="{4:1068708659}" style="resourceId:0x7f13014c" />
+</ScrollView>

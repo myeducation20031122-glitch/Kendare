@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="1" android:id="false" android:layout_width="-1" android:layout_height="-1">
+	<LinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="0dp" android:layout_weight="{4:1065353216}">
+		<LinearLayout android:orientation="1" android:background="res/drawable/shape_line_back_slash.xml" android:layout_width="0dp" android:layout_height="-1" android:layout_weight="{4:1065353216}">
+			<LinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="0dp" android:layout_weight="{4:1065353216}">
+				<View android:layout_width="0dp" android:layout_height="-1" android:layout_weight="{4:1065353216}" />
+				<TextView android:gravity="0x11" android:id="false" android:layout_width="0dp" android:layout_height="-1" android:text="2" android:layout_weight="{4:1073741824}" style="resourceId:0x7f1301a0" />
+			</LinearLayout>
+			<LinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="0dp" android:layout_weight="{4:1065353216}">
+				<TextView android:gravity="0x11" android:id="false" android:layout_width="0dp" android:layout_height="-1" android:text="3" android:layout_weight="{4:1073741824}" style="resourceId:0x7f1301a0" />
+				<View android:layout_width="0dp" android:layout_height="-1" android:layout_weight="{4:1065353216}" />
+			</LinearLayout>
+		</LinearLayout>
+		<View android:background="8a8a8a" android:layout_width="1dp" android:layout_height="-1" />
+		<RelativeLayout android:layout_width="0dp" android:layout_height="-1" android:layout_weight="{4:1065353216}">
+			<TextView android:gravity="0x11" android:id="false" android:layout_width="-1" android:layout_height="-1" android:text="1" android:layout_centerInParent="true" style="resourceId:0x7f1301a0" />
+		</RelativeLayout>
+		<View android:background="8a8a8a" android:layout_width="1dp" android:layout_height="-1" />
+		<LinearLayout android:orientation="1" android:background="res/drawable/shape_line_slash.xml" android:layout_width="0dp" android:layout_height="-1" android:layout_weight="{4:1065353216}">
+			<LinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="0dp" android:layout_weight="{4:1065353216}">
+				<TextView android:gravity="0x11" android:id="false" android:layout_width="0dp" android:layout_height="-1" android:text="12" android:layout_weight="{4:1073741824}" android:lineSpacingMultiplier="{4:1065353216}" style="resourceId:0x7f1301a0" />
+				<View android:layout_width="0dp" android:layout_height="-1" android:layout_weight="{4:1065353216}" />
+			</LinearLayout>
+			<LinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="0dp" android:layout_weight="{4:1065353216}">
+				<View android:layout_width="0dp" android:layout_height="1dp" android:layout_weight="{4:1065353216}" />
+				<TextView android:gravity="0x11" android:id="false" android:layout_width="0dp" android:layout_height="-1" android:text="11" android:layout_weight="{4:1073741824}" style="resourceId:0x7f1301a0" />
+			</LinearLayout>
+		</LinearLayout>
+	</LinearLayout>
+	<View android:background="8a8a8a" android:layout_width="-1" android:layout_height="1dp" />
+	<LinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="0dp" android:layout_weight="{4:1065353216}">
+		<RelativeLayout android:layout_width="0dp" android:layout_height="-1" android:layout_weight="{4:1065353216}">
+			<TextView android:gravity="0x11" android:id="false" android:layout_width="-1" android:layout_height="-1" android:text="4" android:layout_centerInParent="true" style="resourceId:0x7f1301a0" />
+		</RelativeLayout>
+		<View android:background="8a8a8a" android:layout_width="1dp" android:layout_height="-1" />
+		<RelativeLayout android:id="false" android:layout_width="0dp" android:layout_height="-1" android:layout_weight="{4:1065353216}">
+			<TextView android:textColor="resourceId:0x106000b" android:gravity="0x11" android:layout_gravity="0x1" android:id="false" android:background="res/drawable/shape_rect_round_primary.xml" android:padding="4dp" android:layout_width="-1" android:layout_height="-2" android:layout_marginTop="4dp" android:layout_marginBottom="4dp" android:text="Ascendant" android:layout_alignParentBottom="true" android:layout_centerHorizontal="true" android:layout_marginStart="4dp" android:layout_marginEnd="4dp" style="resourceId:0x7f13018a" />
+			<ImageView android:id="false" android:layout_width="-1" android:layout_height="-1" android:scaleType="3" android:layout_above="false" android:layout_centerInParent="true" app:srcCompat="res/drawable/aquarius.xml" />
+		</RelativeLayout>
+		<View android:background="8a8a8a" android:layout_width="1dp" android:layout_height="-1" />
+		<RelativeLayout android:layout_width="0dp" android:layout_height="-1" android:layout_weight="{4:1065353216}">
+			<TextView android:gravity="0x11" android:id="false" android:layout_width="-1" android:layout_height="-1" android:text="10" android:layout_centerInParent="true" style="resourceId:0x7f1301a0" />
+		</RelativeLayout>
+	</LinearLayout>
+	<View android:background="8a8a8a" android:layout_width="-1" android:layout_height="1dp" />
+	<LinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="0dp" android:layout_weight="{4:1065353216}">
+		<LinearLayout android:orientation="1" android:background="res/drawable/shape_line_slash.xml" android:layout_width="0dp" android:layout_height="-1" android:layout_weight="{4:1065353216}">
+			<LinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="0dp" android:layout_weight="{4:1065353216}">
+				<TextView android:gravity="0x11" android:id="false" android:layout_width="0dp" android:layout_height="-1" android:text="5" android:layout_weight="{4:1073741824}" style="resourceId:0x7f1301a0" />
+				<View android:layout_width="0dp" android:layout_height="-1" android:layout_weight="{4:1065353216}" />
+			</LinearLayout>
+			<LinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="0dp" android:layout_weight="{4:1065353216}">
+				<View android:layout_width="0dp" android:layout_height="-1" android:layout_weight="{4:1065353216}" />
+				<TextView android:gravity="0x11" android:id="false" android:layout_width="0dp" android:layout_height="-1" android:text="6" android:layout_weight="{4:1073741824}" style="resourceId:0x7f1301a0" />
+			</LinearLayout>
+		</LinearLayout>
+		<View android:background="8a8a8a" android:layout_width="1dp" android:layout_height="-1" />
+		<RelativeLayout android:layout_width="0dp" android:layout_height="-1" android:layout_weight="{4:1065353216}">
+			<TextView android:gravity="0x11" android:id="false" android:layout_width="-1" android:layout_height="-1" android:text="7" android:layout_centerInParent="true" style="resourceId:0x7f1301a0" />
+		</RelativeLayout>
+		<View android:background="8a8a8a" android:layout_width="1dp" android:layout_height="-1" />
+		<LinearLayout android:orientation="1" android:background="res/drawable/shape_line_back_slash.xml" android:layout_width="0dp" android:layout_height="-1" android:layout_weight="{4:1065353216}">
+			<LinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="0dp" android:layout_weight="{4:1065353216}">
+				<View android:layout_width="0dp" android:layout_height="-1" android:layout_weight="{4:1065353216}" />
+				<TextView android:gravity="0x11" android:id="false" android:layout_width="0dp" android:layout_height="-1" android:text="9" android:layout_weight="{4:1073741824}" style="resourceId:0x7f1301a0" />
+			</LinearLayout>
+			<LinearLayout android:orientation="0" android:layout_width="-1" android:layout_height="0dp" android:layout_weight="{4:1065353216}">
+				<TextView android:gravity="0x11" android:id="false" android:layout_width="0dp" android:layout_height="-1" android:text="8" android:layout_weight="{4:1073741824}" style="resourceId:0x7f1301a0" />
+				<View android:layout_width="0dp" android:layout_height="-1" android:layout_weight="{4:1065353216}" />
+			</LinearLayout>
+		</LinearLayout>
+	</LinearLayout>
+</LinearLayout>

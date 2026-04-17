@@ -1,0 +1,6 @@
+package com.onesignal;
+
+/* loaded from: /storage/emulated/0/Android/data/com.dastanapps.androiddevtools/files/decompiled/com.isprid.kendare/dex/classes.dex */
+public interface t0 {
+    void d(u0 u0Var);
+}

@@ -1,0 +1,18 @@
+=== JADX Decompilation Summary ===
+
+App Name: Kendare
+Package: com.isprid.kendare
+Version: 2.2.3
+APK Path: /data/app/~~eCtnxaJeC_NIEFiRW_VYfQ==/com.isprid.kendare-AWKgbqLDjUkwpxG0n6uNkw==/base.apk
+Classes Decompiled: 11849
+
+Output Directory: /storage/emulated/0/Android/data/com.dastanapps.androiddevtools/files/decompiled/com.isprid.kendare
+
+Structure:
+  - src/           : Decompiled Java source files
+  - res/           : Decompiled resources
+  - lib/           : Native shared libraries (.so files)
+  - dex/           : Extracted DEX files
+  - SUMMARY.txt    : This file
+
+Decompiled at: Fri Apr 17 17:02:18 GMT+05:30 2026

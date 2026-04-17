@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" android:orientation="0" android:layout_width="-2" android:layout_height="-2" android:baselineAligned="false">
+	<include layout="res/layout/material_timepicker_textinput_display.xml" />
+	<include android:id="false" android:layout_width="52dp" android:layout_height="96dp" android:layout_marginStart="12dp" layout="res/layout/material_clock_period_toggle.xml" />
+</LinearLayout>

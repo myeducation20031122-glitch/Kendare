@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android" xmlns:app="http://schemas.android.com/apk/res-auto" android:orientation="1" android:tag="layout/horoscope_item_0" android:background="{2:2130904079}" android:layout_width="-1" android:layout_height="-2">
+	<LinearLayout android:gravity="0x10" android:orientation="0" android:layout_width="-1" android:layout_height="-2">
+		<TextView android:textColor="resourceId:0x106000c" android:id="false" android:layout_width="0dp" android:layout_height="-2" android:text="test" android:layout_weight="{4:1065353216}" style="resourceId:0x7f13014a" />
+		<TextView android:textColor="277bc" android:id="false" android:layout_width="-2" android:layout_height="-2" android:text="test" style="resourceId:0x7f13018a" />
+		<ImageView android:id="false" android:layout_width="48dp" android:layout_height="40dp" android:scaleType="5" app:srcCompat="res/drawable/ic_twotone_delete.xml" />
+	</LinearLayout>
+	<View android:background="277bc" android:layout_width="-1" android:layout_height="1dp" />
+</LinearLayout>
