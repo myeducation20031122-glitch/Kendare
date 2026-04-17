@@ -1,12 +1,16 @@
-name: Extract ZIP to Root
+name: Extract ZIP to Root and Push
 
 on:
   push:
     branches: [ "main" ]
   workflow_dispatch:
 
+# වැදගත්: Workflow එකට repository එකට write කිරීමේ අවසරය ලබා දෙන්න
+permissions:
+  contents: write
+
 jobs:
-  unzip:
+  unzip-and-push:
     runs-on: ubuntu-latest
 
     steps:
@@ -19,5 +23,13 @@ jobs:
       - name: Extract ZIP into root
         run: unzip -o Kendare_decompiled.zip -d .
 
-      - name: Show files
+      - name: Show extracted files (for logging)
         run: ls -R
+
+      - name: Commit and push changes
+        run: |
+          git config --global user.name "github-actions[bot]"
+          git config --global user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A
+          git commit -m "🤖 Automated: Extract Kendare_decompiled.zip" || echo "✅ No changes to commit"
+          git push
